@@ -36,7 +36,7 @@ public class principal {
 	 */
 	private void initialize() {
 		frmGestorDeLibros = new JFrame();
-		frmGestorDeLibros.setTitle("Gestor de Libros");
+		frmGestorDeLibros.setTitle("SmartLibrary");
 		frmGestorDeLibros.setBounds(100, 100, 450, 300);
 		frmGestorDeLibros.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
