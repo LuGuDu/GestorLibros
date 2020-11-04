@@ -24,7 +24,6 @@ public class Principal {
 		frases frase1 = new frases();
 		
 		do {
-			System.out.println("Hola");
 			System.out.println("\n////GESTOR DE LIBROS\\\\ " + "\n\n"+frase1.getFrase()+"\n\n" + "Menu de opciones:\n"
 					+ "\n1. Añadir libro a la lista\n2. Quiero eliminar el libro actual"
 					+ "\n3. Quiero ver toda la lista\n4. Guardar lista");
