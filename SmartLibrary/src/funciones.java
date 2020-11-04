@@ -29,7 +29,7 @@ public class funciones {
 	}
 	
 	public static void crearLibro(String titulo, String autor, String editorial, Queue<libro> cola) {
-		TECLADO.nextLine();
+		//TECLADO.nextLine();
 		System.out.println("Introduzca el título del libro: ");
 		titulo = TECLADO.nextLine();
 		System.out.println("Introduzca el autor del libro: ");
