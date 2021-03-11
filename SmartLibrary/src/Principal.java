@@ -2,6 +2,10 @@ import java.io.*;
 import java.util.*;
 import java.util.concurrent.*;
 
+import dominio.funciones;
+import dominio.libro;
+import persistencia.frases;
+
 public class Principal {
 
 	// COSAS PARA IMPLEMENTAR:

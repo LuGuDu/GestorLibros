@@ -1,3 +1,4 @@
+package persistencia;
 public class frases {
 	private static String frase;		
 	public frases (){
